@@ -1,5 +1,5 @@
 import asyncio
-from bleak import BleakScanner, BleakClient
+from bleak import BleakScanner, BleakClient # type: ignore
 
 DEVICE_NAME = "XIAO"
 
