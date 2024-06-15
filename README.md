@@ -8,7 +8,6 @@ This project implements a BLE HID keyboard with configurable key bindings that c
 - `firmware/`: Firmware code for the microcontroller.
 - `host/`: Host application code for configuring the keyboard.
 - `docs/`: Project documentation.
-- `tests/`: Test scripts for validating the project.
 
 ## Setup
 
